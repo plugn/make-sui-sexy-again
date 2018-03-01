@@ -10,7 +10,7 @@ Demonstrates integration and customization of Semantic UI as explained in the fo
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 

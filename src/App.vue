@@ -21,8 +21,8 @@
 </template>
 
 <style lang="less">
-  #app {
-    margin-top: 1.5rem;
-  }
+#app {
+  margin-top: 1.5rem;
+}
 </style>
 

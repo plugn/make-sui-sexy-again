@@ -4,7 +4,7 @@
 
 ## About
 
-Based on the webpack-simple template for vue-cli.
+Based on the webpack-simple template for vue-cli 2.
 
 Demonstrates integration and customization of Semantic UI as explained in the following article: https://medium.com/@BjornKrols/how-to-add-semantic-ui-to-your-vue-project-cc8c4783a673
 
